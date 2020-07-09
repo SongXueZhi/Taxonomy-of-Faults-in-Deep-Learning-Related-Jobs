@@ -49,3 +49,4 @@ model.evaluate(x_test,y_test)
 image_index=1111
 plt.imshow(x_test[image_index].reshape(28,28),cmap='Greys')
 
+###add test case
